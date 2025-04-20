@@ -141,3 +141,8 @@ Program mengimplementasikan tiga kelas utama yang mewakili entitas-entitas dalam
 3. Sistem menampilkan hasil pencarian yang sesuai
 
 ## Dokumentasi Hasil
+![Image](https://github.com/user-attachments/assets/c43ade8d-de8e-48af-bdc1-9a93edf94828)
+![Image](https://github.com/user-attachments/assets/fb1b299b-7c5e-4dd4-ada9-d25cc1819028)
+![Image](https://github.com/user-attachments/assets/0d76408d-45cc-4f68-91a7-e4a09635c0cd)
+![Image](https://github.com/user-attachments/assets/e9a65de4-367a-491e-b741-36b39a2a5619)
+![Image](https://github.com/user-attachments/assets/197f2682-20a6-4fce-9601-ec032593878f)
