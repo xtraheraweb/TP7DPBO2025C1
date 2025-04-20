@@ -4,6 +4,7 @@
 Saya Safira Aliyah Azmi dengan NIM 2309209 mengerjakan Tugas Praktikum 7 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Desain Program
+![Image](https://github.com/user-attachments/assets/cdc7e2fa-ccaa-499f-a35c-4af58c6bb25f)
 
 Program menggunakan tiga tabel utama yang saling terhubung:
 
